@@ -1,0 +1,5 @@
+../User/step_counter.c:22:6:StepUI_Init	24	static
+../User/step_counter.c:35:6:StepUI_Update	24	static
+../User/step_counter.c:63:6:Step_Start	24	static
+../User/step_counter.c:75:6:Step_Stop	8	static
+../User/step_counter.c:85:6:Step_Process	16	static

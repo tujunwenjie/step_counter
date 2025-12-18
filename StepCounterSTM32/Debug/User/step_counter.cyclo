@@ -1,0 +1,5 @@
+../User/step_counter.c:22:6:StepUI_Init	1
+../User/step_counter.c:35:6:StepUI_Update	3
+../User/step_counter.c:63:6:Step_Start	1
+../User/step_counter.c:75:6:Step_Stop	1
+../User/step_counter.c:85:6:Step_Process	5

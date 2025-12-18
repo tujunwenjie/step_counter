@@ -1,0 +1,5 @@
+../User/ui.c:62:13:draw_time_str	2
+../User/ui.c:78:13:draw_progress	4
+../User/ui.c:94:13:show_centered_int	2
+../User/ui.c:106:6:PedometerUI_Init	1
+../User/ui.c:158:6:PedometerUI_Update	14

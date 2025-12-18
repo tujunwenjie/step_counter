@@ -1,0 +1,5 @@
+../User/ui.c:62:13:draw_time_str	80	static
+../User/ui.c:78:13:draw_progress	48	static
+../User/ui.c:94:13:show_centered_int	56	static
+../User/ui.c:106:6:PedometerUI_Init	24	static
+../User/ui.c:158:6:PedometerUI_Update	80	static

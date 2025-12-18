@@ -1,0 +1,7 @@
+../User/LSM9DS0/health_cal.c:11:6:filter_update	24	static
+../User/LSM9DS0/health_cal.c:23:6:Mean_filtering	32	static
+../User/LSM9DS0/health_cal.c:46:13:peak_value_init	16	static
+../User/LSM9DS0/health_cal.c:57:7:peak_update	16	static
+../User/LSM9DS0/health_cal.c:90:7:slid_update	32	static
+../User/LSM9DS0/health_cal.c:127:13:is_most_active	32	static
+../User/LSM9DS0/health_cal.c:163:10:detect_step	40	static
